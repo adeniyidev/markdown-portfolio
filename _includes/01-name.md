@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Adeniydev
+## A tech enthsiast and Multi Instrumentalist
+### A Systems Engineering graduate from UNILAG
